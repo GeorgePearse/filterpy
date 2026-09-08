@@ -149,3 +149,6 @@ respect-ignore-files = true
 [tool.ty.environment]
 # Python version we're targeting
 python-version = "3.11"
+
+[tool.uv]
+required-version = "==0.12.10"
